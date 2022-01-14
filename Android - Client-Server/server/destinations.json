@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "city": "Rome",
+    "country": "Italy",
+    "tourism": "cultural",
+    "description": "Nice place",
+    "image": "https://thenomadvisor.com/wp-content/uploads/2020/02/romewhertostay-780x520.jpg",
+    "touristAttractions": "Colosseum, Trevi Fountain",
+    "user": "ana",
+    "isUploaded": true
+  },
+  {
+    "id": 2,
+    "city": "London",
+    "country": "UK",
+    "tourism": "cultural",
+    "description": "Nice place",
+    "image": "https://www.27vakantiedagen.nl/wp-content/uploads/2019/05/engeland-londen-palace-of-westminster.jpg",
+    "touristAttractions": "Big Ben, Buckingham Palace",
+    "user": "ana",
+    "isUploaded": true
+  },
+  {
+    "id": 3,
+    "city": "Paris",
+    "country": "France",
+    "tourism": "cultural",
+    "description": "Nice place",
+    "image": "https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900",
+    "touristAttractions": "Eiffel Tower, Versailles Palace",
+    "user": "ion",
+    "isUploaded": true
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "description": "Sunny place!",
+    "id": 4,
+    "image": "https://enterpriseiotinsights.com/wp-content/uploads/2015/04/barcelona_parkguell1-e1428402354369.jpg",
+    "isUploaded": true,
+    "tourism": "cultural",
+    "touristAttractions": "Sagrada Familia, Camp Nou, Park Guell",
+    "user": "ana"
+  }
+]
